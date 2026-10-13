@@ -64,10 +64,10 @@ const styles = StyleSheet.create({
 screen: {
 flex: 1,
 padding: 16,
-backgroundColor: '#f3f4f6',
+backgroundColor: '#24272f',
 },
 count: {
-color: '#6b7280',
+color: '#3c71db',
 marginBottom: 12,
 },
 form: {
@@ -75,9 +75,9 @@ gap: 8,
 marginBottom: 16,
 },
 input: {
-backgroundColor: '#ffffff',
+backgroundColor: '#726262',
 borderWidth: 1,
-borderColor: '#d1d5db',
+borderColor: '#5f6775',
 borderRadius: 8,
 padding: 12,
 fontSize: 16,
@@ -85,18 +85,18 @@ fontSize: 16,
 button: {
 backgroundColor: '#2563eb',
 borderRadius: 8,
-padding: 14,
+padding: 12,
 alignItems: 'center',
 },
 buttonDisabled: {
 opacity: 0.4,
 },
 buttonText: {
-color: '#ffffff',
+color: '#672b2b',
 fontWeight: '600',
-fontSize: 16,
+fontSize: 18,
 },
 separator: {
-height: 10,
+height: 15,
 },
 });
